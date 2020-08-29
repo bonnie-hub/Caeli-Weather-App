@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-  color: #51544a;
+  color: #696969;
   font-size: 24px;
   font-weight: 100;
   line-height: 28px;
@@ -83,9 +83,9 @@ li:first-letter {
 }
 
 .weather-forecast h3 {
-  color: rgb(186, 186, 186);
+  color:  rgb(33, 33, 33);
   font-size: 14px;
-  font-weight: 400;
+  font-weight: 500;
   text-align: center;
   height: 15px;
   line-height: 15px;
@@ -101,7 +101,7 @@ li:first-letter {
 
 .weather-forecast-temperature {
   text-align: center;
-  color: rgb(135, 135, 135);
+  color:  rgb(33, 33, 33);
   font-size: 13px;
   font-weight: 400;
   height: auto;
